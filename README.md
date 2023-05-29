@@ -19,7 +19,7 @@ Tabletop Roleplaying games, like Dungeons and Dragons and other things like it, 
 - On Discord at SciFan-san#4732
 
 ### Links to my my projects on GitHub Pages:
-JS Practice: https://scifan-san.github.io/js_practice_projects/
+JS Practice: https://scifan-san.github.io/js_practice_projects/  
 E-commerce template: https://scifan-san.github.io/e-commerce_template/
 <!---
 SciFan-San/SciFan-San is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
