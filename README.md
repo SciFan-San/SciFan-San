@@ -1,25 +1,20 @@
-- 👋 Hi, I’m Michael D. Johnston aka @SciFan-San
-- I'm a Web Developer in the making. 
-- Currently practicing and studying very much in the frond-end of web development. 
-- My goal is to become a backend ninja through anf through!
+### 👋 Hi, I’m Michael D. Johnston aka @SciFan-San
+I'm a Full-stack Web Developer in the making. Currently my practice and study is very focused on the frond-end of web development. My goal is to eventually become a backend ninja though!
 
-- 👀 I’m interested in ...
-- Anything vaguely Nerdy like. 
-- I'm a huge fan of tabletop games, especially the roleplay aspect of it all. 
-- Then other things like anime, videogames and the like(League of Legends is one of my go-to gaming activities).
-- Last but certainly not least is that I'm a big reader of fiction, 
-- especially of Sci-Fi and Fantasy and especially the combination of the two 😉. 
+### 👀 I’m interested in ...
+Tabletop Roleplaying games, like Dungeons and Dragons and other things like it. And other geeky things like Anime, Videogames and the like. I also like reading quite a bit and my favourite genres are Sci-Fi and Fantasy (original i know! 😜). My favourite is the combination of the gnres though, like Star Wars 😉. 
 
-- 🌱 I’m currently learning ...
-- JavaScript & Git,
+### 🌱 I’m currently learning ...
+- JavaScript & Git, 
 - Then Python and PHP
 - And finally mySQL, then postgreSQL
 - Will also be doing learning Reacty an TypeScript and the NEXTjs on the side.
-- 💞️ I’m looking to collaborate on ...
-- Open Source projects like forks of valve's proton compatibility layer ('cause I'm a gamer and Linux fanboy 😜)
-- Linux OS or adjacent contribtions as well after I pick up some more programming languages - like C 😅.
 
-- 📫 How to reach me ...
+### 💞️ I’m looking to collaborate on ...
+- Open Source projects like forks of valve's proton compatibility layer ('cause I'm a gamer and Linux fanboy 😄)
+- Linux OS contribtions eventually after I pick up more computer science knowledge and programming experience - Rust and C here I come? 😅.
+
+## 📫 How to reach me ...
 - On LinkedIn at https://www.linkedin.com/in/michael-johnston-b685a9160/
 - On Discord at SciFan-san#4732
 
