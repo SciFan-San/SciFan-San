@@ -26,7 +26,7 @@ I am a recent graduate in Software Engineering from **WeThinkCode_** (NQF6), wit
 
 ### 🌟 Featured Project
 **[QR Code App](https://github.com/SciFan-San/qr-code-app)**
-A functional application demonstrating my ability to bridge the gap between back-end logic and user-facing utility. Check it out to see my approach to clean code and problem analysis!
+A functional application demonstrating my ability to code back-end logic using python libraries like segno (qr-code generation) and FastAPI to return a downloadable qr-code. Check it out and git it a try it! Beware that it's still in development.
 
 ---
 
