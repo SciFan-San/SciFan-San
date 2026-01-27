@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Software Engineer | Problem Solver | Storyteller
 
-I am a recent graduand in Software Engineering student from **WeThinkCode_** (NQF6), with a unique background in theology. My journey has taken me from brief work in other industries, to breifly being a Youth Pastor and now pursuing a career in building robust software solutions.
+I am a recent graduate in Software Engineering from **WeThinkCode_** (NQF6), with a unique background in theology. My journey has taken me from brief work in other industries, to breifly being a Youth Pastor and now pursuing a career in building robust software solutions.
 
 ---
 
